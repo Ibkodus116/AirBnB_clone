@@ -1,0 +1,30 @@
+{
+    "User.be252ecb-6e2f-4888-9310-dc65d6488457": {
+        "__class__": "User",
+        "id": "be252ecb-6e2f-4888-9310-dc65d6488457",
+        "created_at": "2023-02-14T11:14:09.264742",
+        "updated_at": "2023-02-14T11:14:09.264742",
+        "first_name": "John",
+        "age": "98"
+    },
+    "BaseModel.326f48f8-537f-4380-a4f4-f12b2311ca0f": {
+        "__class__": "BaseModel",
+        "id": "326f48f8-537f-4380-a4f4-f12b2311ca0f",
+        "created_at": "2023-02-14T11:14:17.980765",
+        "updated_at": "2023-02-14T11:14:17.980765",
+        "age": "98"
+    },
+    "State.ee79a360-1ba1-4b1a-ba44-787f4214a53b": {
+        "__class__": "State",
+        "id": "ee79a360-1ba1-4b1a-ba44-787f4214a53b",
+        "created_at": "2023-02-14T12:03:22.559643",
+        "updated_at": "2023-02-14T12:03:22.559643",
+        "attribute_name": "string_value"
+    },
+    "State.bfd05084-bbb9-496f-906a-b8e62da1f3d6": {
+        "__class__": "State",
+        "id": "bfd05084-bbb9-496f-906a-b8e62da1f3d6",
+        "created_at": "2023-02-14T12:29:49.928995",
+        "updated_at": "2023-02-14T12:29:49.928995"
+    }
+}
